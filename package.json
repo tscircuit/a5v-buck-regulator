@@ -1,0 +1,17 @@
+{
+  "name": "@seveibar/arduino-nano",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "tscircuit": "^0.0.165"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "tsci dev",
+    "build": "tsup ./index.ts --sourcemap --dts"
+  }
+}
