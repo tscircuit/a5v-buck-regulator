@@ -1,8 +1,6 @@
-# @seveibar/arduino-nano
+# @seveibar/a5v-buck-regulator
 
-[![tscircuit version badge](https://registry-api.tscircuit.com/badges/view?package_name=seveibar.arduino-nano)](https://registry.tscircuit.com/seveibar/arduino-nano)
-
-
+[![tscircuit version badge](https://registry-api.tscircuit.com/badges/view?package_name=seveibar.arduino-nano)](https://registry.tscircuit.com/seveibar/a5v-buck-regulator)
 
 > This project was generated using [tsci](https://github.com/tscircuit/tscircuit)
 
