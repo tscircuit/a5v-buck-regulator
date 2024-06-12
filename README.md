@@ -2,11 +2,11 @@
 
 [![tscircuit version badge](https://registry-api.tscircuit.com/badges/view?package_name=seveibar.arduino-nano)](https://registry.tscircuit.com/seveibar/a5v-buck-regulator)
 
-> This project was generated using [tsci](https://github.com/tscircuit/tscircuit)
-
-To develop and view the examples, run `tsci dev` and open [http://localhost:3020](http://localhost:3020) in your browser.
+This buck regulator is based on the [SparkFun Buck Regulator Breakout](https://www.sparkfun.com/products/21255)
 
 ## Developing
+
+To develop and view the examples, run `tsci dev` and open [http://localhost:3020](http://localhost:3020) in your browser.
 
 You should install an editor like [VS Code](https://code.visualstudio.com/) with a typescript extension. Many web developers already have this.
 
